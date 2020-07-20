@@ -24,7 +24,7 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://arghya007.me/)
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UC5bhK7rAGH39wcanJy8YCMA?view_as=subscriber)
+- 🔔 Subscribe:- [Arghya Guha](https://www.youtube.com/channel/UC5bhK7rAGH39wcanJy8YCMA?view_as=subscriber)
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Arghya,s github stats](https://github-readme-stats.vercel.app/api?username=arghya-007&show_icons=true)
