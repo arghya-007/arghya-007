@@ -11,7 +11,7 @@ I am Arghya Guha 😃. I am from Kolkata, India and currently doing my B.Tech fr
 ## 👯 Communities
 * Microsoft Student Partner
 * coders of XDA
-* Founder- coders of RCCIIT
+* coders of RCCIIT
 * Github developer community
 ## ⚡ Technologies
 Talk to me about
