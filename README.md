@@ -38,3 +38,4 @@ Talk to me about
 - ⚡ Fun fact: Internet users blink less than usual.
 
 ![Arghya,s github stats](https://github-readme-stats.vercel.app/api?username=arghya-007&show_icons=true)
+https://gist.github.com/arghya-007/156e57378370fb56d09482735f54fe27
